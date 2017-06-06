@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "next": "^2.4.1",
+    "react": "^15.5.4",
+    "react-apollo": "^1.4.2",
+    "react-dom": "^15.5.4"
+  },
+  "scripts": {
+    "dev": "next dev"
+  },
+  "name": "nextjs-with-apollo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
